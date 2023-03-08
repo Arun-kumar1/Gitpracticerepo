@@ -1,3 +1,0 @@
-AWS Amazon Web Service
-AWS is a cloud giving giving it infrastructure to it people
-storing data on aws cloud
