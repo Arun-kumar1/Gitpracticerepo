@@ -1,4 +1,12 @@
+
 Aws 
 Amazon Web Service
 providing cloud infrastructure on AWS
 Storing data over intrnet
+
+AWS Amazon web service
+vpc virtual private network
+s3 simple storage service
+EC2 Elastic cloud compute
+ELB Elastic Load Balancer
+
